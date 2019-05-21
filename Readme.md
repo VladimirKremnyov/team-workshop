@@ -8,7 +8,7 @@ Welcome to OOD workshop, guys! Today we are going to create a Bank. So lets star
 
 3) If someone tries to create a bank account with invalid information an appropriate exception should be thrown.
 
-4) It should support add, withdraw, transfer and show history operations.
+4) It should support deposit, withdraw, transfer and show history operations.
 
 5) When the interest is greater than 1% the withdraws are forbidden.
 
@@ -23,7 +23,7 @@ It should have the following functions:
 
 2) _show_history_ It should ask the user for the bank account number and show its history.
 
-3) _add_money_ It should ask the user for the amount and the bank account number.
+3) _deposit_money_ It should ask the user for the amount and the bank account number.
 
 4) _withdraw_money_ It should ask the user for the amount and the bank account number.
 
